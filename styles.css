@@ -1,0 +1,21 @@
+.container {
+    background-color: #1F2937;
+}
+
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+}
+
+.navbar {
+    display: flex;
+    color: #F9FAF8;
+    justify-content: space-around;
+    text-align: center;
+    padding: 5px;
+    margin: 0;
+}
+
+.bx hero {
+    display: flex;
+}
